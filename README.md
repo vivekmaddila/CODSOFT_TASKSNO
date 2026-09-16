@@ -58,7 +58,7 @@ in Python programming by implementing functional applications.
 
 ## 👨‍💻 Author
 
-**Your Name**
+VIVEK MADDILA
 
 Python Programming Intern  
 CodSoft
